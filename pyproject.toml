@@ -11,7 +11,7 @@ authors = [
 description = "BigBang is a toolkit for studying communications data from collaborative projects. It currently supports analyzing mailing lists from Sourceforge, Mailman, ListServ, or .mbox files."
 readme = "README.md"
 license = { file="LICENSE" }
-requires-python = ">=3.12"
+requires-python = ">=3.9, <3.11"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
